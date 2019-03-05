@@ -3,4 +3,7 @@ public class calculator{
 		System.out.println("hello world");
 		System.out.println("calculator java programm");
 	}
+	public static void addition(int number1,int number2){
+		System.out.println("Addition = " +(number1+number2));
+	}
 }
